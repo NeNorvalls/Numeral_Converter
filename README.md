@@ -1,6 +1,6 @@
 # Roman Numeral Converter
 
-This is a simple web application that converts standard numerical digits (Arabic numerals) into Roman numerals.
+This is a simple web application that converts standard numerical digits into Roman numerals.
 
 ## How to Use
 
@@ -23,4 +23,4 @@ This is a simple web application that converts standard numerical digits (Arabic
 
 ## Live Demo
 
-You can view a live demo of this project [here](your-netlify-site-url).
+You can view a live demo of this project [here](https://roman-numeral-converter-proj.netlify.app/).
